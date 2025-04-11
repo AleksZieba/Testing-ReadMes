@@ -25,7 +25,6 @@ A creative developer who loves blending code with art to craft mesmerizing proje
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff" alt="Node.js">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff" alt="CSS3">
 </div>
-****
 ---
 
 ## GitHub Stats
